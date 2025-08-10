@@ -1,7 +1,7 @@
-# Under Construction
-# NTHU: Operating Systems (CS342302)
+# 👷‍♂️Under Construction 👷‍♂️
+# 🏫NTHU: 🧑‍🏫Operating Systems (CS342302)
 
-# Software packages
+# 🖥️Software packages
 Note that the versions mentioned are the ones which I used for solving the checkpoints, and these versions might be outdated now. You can look into the latest versions of software.
 | Software (version) | Purpose | Constrain |
 | :---:         |     ---     |   ---     | 
@@ -11,7 +11,7 @@ Note that the versions mentioned are the ones which I used for solving the check
 | EdSim51DI (2.1.36)   | Simulator for 8051       |  Required  |
 
 
-# Programming Project Checkpoints:  
+# 📑Programming Project Checkpoints
 
 | Status | Checkpoint | Task |
 | :---:         |     :---:      |          --- |
