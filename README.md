@@ -1,4 +1,3 @@
-# 👷‍♂️Under Construction 👷‍♂️
 # 🏫NTHU: 🧑‍🏫Operating Systems (CS342302)
 
 # 🖥️Software packages
