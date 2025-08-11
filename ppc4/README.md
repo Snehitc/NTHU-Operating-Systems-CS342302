@@ -19,6 +19,3 @@ Check the files mentioned below; the mentioned task is solved in .c files, and f
 | *Makefile* | [Approach_1](https://github.com/Snehitc/NTHU-Operating-Systems-CS342302/blob/main/ppc4/files/Approach_1-ThreadYield/Makefile) <br/> [Approach_2](https://github.com/Snehitc/NTHU-Operating-Systems-CS342302/blob/main/ppc4/files/Approach_2-ISR/Makefile) | Same *Makefile* for both Approach 1 and 2 |
 | *preemptive.c* | [Approach_1](https://github.com/Snehitc/NTHU-Operating-Systems-CS342302/blob/main/ppc4/files/Approach_1-ThreadYield/preemptive.c) <br/> [Approach_2](https://github.com/Snehitc/NTHU-Operating-Systems-CS342302/blob/main/ppc4/files/Approach_2-ISR/preemptive.c) | Same as $${\color{green}Solved}$$:*preemptive.c* from PPC 3 |
 | *test3threads.c* | [Approach_1](https://github.com/Snehitc/NTHU-Operating-Systems-CS342302/blob/main/ppc4/files/Approach_1-ThreadYield/test3threads.c) <br/> [Approach_2](https://github.com/Snehitc/NTHU-Operating-Systems-CS342302/blob/main/ppc4/files/Approach_2-ISR/test3threads.c) | $${\color{green}Solved}$$: Key Changes in Approach 1 vs 2 is spawning <br/> - Approach_1: Threadyield()<br/> - Approach_2: ISR |
-
-# Advice
-Read and understand the report [beginners friendly]; it has all the necessary details required to complete this task and a nice description about how the code is executing.
