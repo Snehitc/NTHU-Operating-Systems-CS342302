@@ -18,7 +18,4 @@ Check the files mentioned below; the required [TODO] section in the mentioned .c
 | [*preemptive.h*](https://github.com/Snehitc/NTHU-Operating-Systems-CS342302/blob/main/ppc3/files/preemptive.h) | Based on *preemptive.h* from PPC 2 with addition of **Semaphore** |
 | [*Makefile*](https://github.com/Snehitc/NTHU-Operating-Systems-CS342302/blob/main/ppc3/files/Makefile) | Same as *Makefile* from PPC 2 (Reason: filenames in PPC 2 and 3 were same) |
 | [*preemptive.c*](https://github.com/Snehitc/NTHU-Operating-Systems-CS342302/blob/main/ppc3/files/preemptive.c) | Same as $${\color{green}Solved}$$:*preemptive.c* from PPC 2 |
-| [*testpreempt.c:*](https://github.com/Snehitc/NTHU-Operating-Systems-CS342302/blob/main/ppc3/files/testpreempt.c) | $${\color{green}Solved}$$: Key Changes from PPC 2<br/> - BUFFER_SIZE<br/> - Semaphore mutex, Semaphore full, Semaphore empty; |
-
-# Advice
-Read and understand the report [beginners friendly]; it has all the necessary details required to complete this task and a nice description about how the code is executing.
+| [*testpreempt.c*](https://github.com/Snehitc/NTHU-Operating-Systems-CS342302/blob/main/ppc3/files/testpreempt.c) | $${\color{green}Solved}$$: Key Changes from PPC 2<br/> - BUFFER_SIZE<br/> - Semaphore mutex, Semaphore full, Semaphore empty; |
