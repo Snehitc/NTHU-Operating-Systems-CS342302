@@ -11,6 +11,7 @@ Check the files mentioned below; the required [TODO] section in the mentioned .c
 | *Project Checkpoint 1 - CS 342302 Fall 2024.docx* | Guidelines given which describe the overall task |
 | *ppc1.pdf* | $${\color{green}Solved}$$: Solution report |
 | *cooperative.h* | It's a header file, no edits required in it. |
+| *Makefile* | No edits required in it. |
 | *cooperative.c* | $${\color{green}Solved}$$: [TODO] section describe the task in commented lines |
 | *testcoop.c* | $${\color{green}Solved}$$: [TODO] section describe the task in commented lines |
 
