@@ -16,4 +16,4 @@
 | [*keylib.c*](https://github.com/Snehitc/NTHU-Operating-Systems-CS342302/blob/main/ppc5/files/keylib.c) | Given material |
 | [*lcdlib.h*](https://github.com/Snehitc/NTHU-Operating-Systems-CS342302/blob/main/ppc5/files/lcdlib.h) | Given material |
 | [*lcdlib.c*](https://github.com/Snehitc/NTHU-Operating-Systems-CS342302/blob/main/ppc5/files/lcdlib.c) | $${\color{green}Solved}$$ |
-| [*testlcd.c*](https://github.com/Snehitc/NTHU-Operating-Systems-CS342302/blob/main/ppc5/files/testlcd.c) | $${\color{green}Solved}$$: |
+| [*testlcd.c*](https://github.com/Snehitc/NTHU-Operating-Systems-CS342302/blob/main/ppc5/files/testlcd.c) | $${\color{green}Solved}$$ |
