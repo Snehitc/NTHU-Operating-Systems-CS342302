@@ -1,0 +1,21 @@
+# 👷‍♂️Under Construction👷‍♂️
+
+# Task
+Same as PPC 1, with the difference that instead of using ThreadYield, we use Timer0Handler.<br/>
+> ### PPC 1
+> - Producer: Generate one character at a time from 'A' to 'Z' and start again from 'A'
+> - Consumer: Write the character to the serial Tx port (which can be seen at the UART Rx port)
+
+# Guidelines
+Check the files mentioned below; the required [TODO] section in the mentioned .c files is solved, and find the report given in .pdf.
+| Files | Details |
+| --- | --- |
+| [*Project Checkpoint 2 - CS 342302 Fall 2024.pdf*] | Guidelines given which describe the overall task |
+| [*ppc2.pdf*] | $${\color{green}Solved}$$: Solution report |
+| [*preemptive.h*] | It's a header file, no edits required in it. |
+| [*Makefile*] | No edits required in it. |
+| [*preemptive.c*] | $${\color{green}Solved}$$: [TODO] section describe the task in commented lines |
+| [*testpreempt.c:*] | $${\color{green}Solved}$$: [TODO] section describe the task in commented lines |
+
+# Advice
+Read and understand the report [beginners friendly]; it has all the necessary details required to complete this task and a nice description about how the code is executing.
