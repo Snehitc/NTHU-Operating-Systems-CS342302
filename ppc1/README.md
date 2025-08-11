@@ -1,7 +1,8 @@
 # 👷‍♂️Under Construction👷‍♂️
 
-Task
-Producer: Generate one character at a time from 'A' to 'Z' and start again from 'A' <br/>Consumer: Write the character to the serial Tx port (which can be seen at the UART Rx port)
+# Task
+- Producer: Generate one character at a time from 'A' to 'Z' and start again from 'A'
+- Consumer: Write the character to the serial Tx port (which can be seen at the UART Rx port)
 
 # Guidelines
 Check the files mentioned below; the required [TODO] section in the mentioned .c files is solved, and find the report given in .pdf.
@@ -14,6 +15,5 @@ Check the files mentioned below; the required [TODO] section in the mentioned .c
 | *testcoop.c* | $${\color{green}Solved}$$: [TODO] section describe the task in commented lines |
 
 # Advice
-Read and understand the report <span style="color:green"> beginner-friendly </span>; it has all the necessary details required to complete this task and a nice description aboout how the code is executing.
+Read and understand the report [beginners friendly]; it has all the necessary details required to complete this task and a nice description aboout how the code is executing.
 
-<p>This is some <span style="color:green;">green text</span> within a paragraph.</p>
