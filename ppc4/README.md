@@ -1,5 +1,3 @@
-# 👷‍♂️Under Construction👷‍♂️
-
 # Task
 Based on PPC 3 with key changes, here we have two producers instead of one.<br/>
 
