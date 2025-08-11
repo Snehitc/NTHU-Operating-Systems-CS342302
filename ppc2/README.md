@@ -1,5 +1,3 @@
-# 👷‍♂️Under Construction👷‍♂️
-
 # Task
 Same as PPC 1, with the difference that instead of using ThreadYield, we use Timer0Handler.<br/>
 > ### PPC 1
@@ -15,7 +13,5 @@ Check the files mentioned below; the required [TODO] section in the mentioned .c
 | [*preemptive.h*](https://github.com/Snehitc/NTHU-Operating-Systems-CS342302/blob/main/ppc2/files/preemptive.h) | Based on *cooperative.h* from PPC 1 with necessary modifications |
 | [*Makefile*](https://github.com/Snehitc/NTHU-Operating-Systems-CS342302/blob/main/ppc2/files/Makefile) | Based on *Makefile* from PPC 1 with necessary modifications |
 | [*preemptive.c*](https://github.com/Snehitc/NTHU-Operating-Systems-CS342302/blob/main/ppc2/files/preemptive.c) | $${\color{green}Solved}$$: [TODO] section describe the task in commented lines |
-| [*testpreempt.c:*](https://github.com/Snehitc/NTHU-Operating-Systems-CS342302/blob/main/ppc2/files/testpreempt.c) | $${\color{green}Solved}$$: [TODO] section describe the task in commented lines |
+| [*testpreempt.c*](https://github.com/Snehitc/NTHU-Operating-Systems-CS342302/blob/main/ppc2/files/testpreempt.c) | $${\color{green}Solved}$$: [TODO] section describe the task in commented lines |
 
-# Advice
-Read and understand the report [beginners friendly]; it has all the necessary details required to complete this task and a nice description about how the code is executing.
