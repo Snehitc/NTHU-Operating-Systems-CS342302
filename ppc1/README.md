@@ -1,5 +1,3 @@
-# 👷‍♂️Under Construction👷‍♂️
-
 # Task
 - Producer: Generate one character at a time from 'A' to 'Z' and start again from 'A'
 - Consumer: Write the character to the serial Tx port (which can be seen at the UART Rx port)
@@ -14,7 +12,3 @@ Check the files mentioned below; the required [TODO] section in the mentioned .c
 | [*Makefile*](https://github.com/Snehitc/NTHU-Operating-Systems-CS342302/blob/main/ppc1/files/Makefile) | Given material |
 | [*cooperative.c*](https://github.com/Snehitc/NTHU-Operating-Systems-CS342302/blob/main/ppc1/files/cooperative.c) | $${\color{green}Solved}$$: [TODO] section describe the task in commented lines |
 | [*testcoop.c*](https://github.com/Snehitc/NTHU-Operating-Systems-CS342302/blob/main/ppc1/files/testcoop.c) | $${\color{green}Solved}$$: [TODO] section describe the task in commented lines |
-
-# Advice
-Read and understand the report [beginners friendly]; it has all the necessary details required to complete this task and a nice description about how the code is executing.
-
