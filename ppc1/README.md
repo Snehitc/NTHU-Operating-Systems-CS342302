@@ -15,5 +15,5 @@ Check the files mentioned below; the required [TODO] section in the mentioned .c
 | *testcoop.c* | $${\color{green}Solved}$$: [TODO] section describe the task in commented lines |
 
 # Advice
-Read and understand the report [beginners friendly]; it has all the necessary details required to complete this task and a nice description aboout how the code is executing.
+Read and understand the report [beginners friendly]; it has all the necessary details required to complete this task and a nice description about how the code is executing.
 
