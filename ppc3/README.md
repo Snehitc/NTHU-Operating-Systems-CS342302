@@ -1,5 +1,3 @@
-# 👷‍♂️Under Construction👷‍♂️
-
 # Task
 Similar to PPC 2, but here we use 3 buffers instead of 1 and a Semaphore for controlling shared resources.<br/>
 
