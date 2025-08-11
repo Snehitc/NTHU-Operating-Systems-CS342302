@@ -10,12 +10,15 @@ Based on PPC 3 with key changes, here we have two producers instead of one.<br/>
 Check the files mentioned below; the mentioned task is solved in .c files, and find the report given in .pdf.
 | Files | Details |
 | --- | --- |
-| [*Project Checkpoint 3 - CS 342302 Fall 2024.pdf*](https://github.com/Snehitc/NTHU-Operating-Systems-CS342302/blob/main/ppc3/files/Project%20Checkpoint%203%20-%20CS%20342302%20Fall%202024.pdf) | Guidelines given which describe the overall task |
-| [*ppc3.pdf*](https://github.com/Snehitc/NTHU-Operating-Systems-CS342302/blob/main/ppc3/files/ppc3.pdf) | $${\color{green}Solved}$$: Solution report |
-| [*preemptive.h*](https://github.com/Snehitc/NTHU-Operating-Systems-CS342302/blob/main/ppc3/files/preemptive.h) | Based on *preemptive.h* from PPC 2 with addition of **Semaphore** |
-| [*Makefile*](https://github.com/Snehitc/NTHU-Operating-Systems-CS342302/blob/main/ppc3/files/Makefile) | Same as *Makefile* from PPC 2 (Reason: filenames in PPC 2 and 3 were same) |
-| [*preemptive.c*](https://github.com/Snehitc/NTHU-Operating-Systems-CS342302/blob/main/ppc3/files/preemptive.c) | Same as $${\color{green}Solved}$$:*preemptive.c* from PPC 2 |
-| [*testpreempt.c:*](https://github.com/Snehitc/NTHU-Operating-Systems-CS342302/blob/main/ppc3/files/testpreempt.c) | $${\color{green}Solved}$$: Key Changes from PPC 2<br/> - BUFFER_SIZE<br/> - Semaphore mutex, Semaphore full, Semaphore empty; |
+| [*Project Checkpoint 4 - CS 342302 Fall 2024.pdf*](https://github.com/Snehitc/NTHU-Operating-Systems-CS342302/blob/main/ppc4/files/Project%20Checkpoint%204%20-%20CS%20342302%20Fall%202024.pdf) | Guidelines given which describe the overall task |
+| [*ppc4.pdf*](https://github.com/Snehitc/NTHU-Operating-Systems-CS342302/blob/main/ppc4/files/ppc4.pdf) | $${\color{green}Solved}$$: Solution report |
+
+| Files | Version | Details |
+| --- | --- | --- |
+| *preemptive.h* | [Approach_1](https://github.com/Snehitc/NTHU-Operating-Systems-CS342302/blob/main/ppc4/files/Approach_1-ThreadYield/preemptive.h) <br/> [Approach_2](https://github.com/Snehitc/NTHU-Operating-Systems-CS342302/blob/main/ppc4/files/Approach_2-ISR/preemptive.h) | Same as *preemptive.h* from PPC 3 (both Approach 1 and 2 are same)|
+| *Makefile* | [Approach_1](https://github.com/Snehitc/NTHU-Operating-Systems-CS342302/blob/main/ppc4/files/Approach_1-ThreadYield/Makefile) <br/> [Approach_2](https://github.com/Snehitc/NTHU-Operating-Systems-CS342302/blob/main/ppc4/files/Approach_2-ISR/Makefile) | Same *Makefile* for both Approach 1 and 2 |
+| *preemptive.c* | [Approach_1](https://github.com/Snehitc/NTHU-Operating-Systems-CS342302/blob/main/ppc4/files/Approach_1-ThreadYield/preemptive.c) <br/> [Approach_2](https://github.com/Snehitc/NTHU-Operating-Systems-CS342302/blob/main/ppc4/files/Approach_2-ISR/preemptive.c) | Same as $${\color{green}Solved}$$:*preemptive.c* from PPC 3 |
+| *test3threads.c* | [Approach_1](https://github.com/Snehitc/NTHU-Operating-Systems-CS342302/blob/main/ppc4/files/Approach_1-ThreadYield/test3threads.c) <br/> [Approach_2](https://github.com/Snehitc/NTHU-Operating-Systems-CS342302/blob/main/ppc4/files/Approach_2-ISR/test3threads.c) | $${\color{green}Solved}$$: Key Changes in Approach 1 vs 2 is spawning <br/> - Approach_1: Threadyield()<br/> - Approach_2: ISR |
 
 # Advice
 Read and understand the report [beginners friendly]; it has all the necessary details required to complete this task and a nice description about how the code is executing.
