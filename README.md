@@ -5,10 +5,10 @@
 Note that the versions mentioned are the ones which I used for solving the checkpoints, and these versions might be outdated now. You can look into the latest versions of software.
 | Software (version) | Purpose | Constrain |
 | :---:         |     ---     |   ---     | 
-| Cygwin (3.5.4)  | For Unix-like Environment   |  Required (If using a Windows system) |
-| SDCC (4.4.0)     | Compiler suite that targets the Intel MCS51 based microprocessors       |  Required | 
-| Notepad++ (8.7.1)    | Write and edit .c files       |   Optional (Use any software which can write .c)  |
-| EdSim51DI (2.1.36)   | Simulator for 8051       |  Required  |
+| [Cygwin](https://www.cygwin.com/) (3.5.4)  | For Unix-like Environment   |  Required (If using a Windows system) |
+| [SDCC](https://sdcc.sourceforge.net/) (4.4.0)     | Compiler suite that targets the Intel MCS51 based microprocessors       |  Required | 
+| [Notepad++](https://notepad-plus-plus.org/) (8.7.1)    | Write and edit .c files       |   Optional (Use any software which can write .c)  |
+| [EdSim51DI](https://edsim51.com/) (2.1.36)   | Simulator for 8051       |  Required  |
 
 
 # 📑Programming Project Checkpoints
